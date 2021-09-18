@@ -1,2 +1,3 @@
-# Digispark-Scripts
- Here I'll post all of mine USB Rubber Ducky type scripts for digispark. 
+# Force locker
+
+Lock your device forcely by clicking CTRL+ALT+Delete and then pressing ENTER key. 
